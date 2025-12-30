@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.asklokesh/aws-mcp-server",
+  "description": "MCP server for integrating Amazon Web Services (AWS) APIs with GenAI applications",
+  "title": "AWS",
+  "repository": {
+    "url": "https://github.com/asklokesh/aws-mcp-server",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "websiteUrl": "https://github.com/asklokesh/aws-mcp-server"
+}
